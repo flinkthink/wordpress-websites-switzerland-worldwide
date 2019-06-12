@@ -10,6 +10,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Comotive](https://www.comotive.ch/)
 - [cubetech](https://www.cubetech.ch/) - [@cubetech_ch](https://twitter.com/cubetech_ch)
 - [flake GmbH](https://flake.ch/)
+- [flink think GmbH](https://www.flinkthink.ch/)
 - [Guave Interactive](https://www.guaveinteractive.ch/)- [@guave_ia](https://twitter.com/guave_ia)
 - [Haptiq](https://haptiq.studio/)
 - [MIND](https://www.mind.ch/)
